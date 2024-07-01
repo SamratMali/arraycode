@@ -1,0 +1,1 @@
+ int[] temp= new int[arr1.length-count];
